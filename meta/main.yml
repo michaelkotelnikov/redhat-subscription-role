@@ -1,1 +1,5 @@
 ---
+galaxy_info:
+  role_name: redhat-subscription-role
+  description: Subscribe to a Red Hat account
+  company: Red Hat, Inc.
